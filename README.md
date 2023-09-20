@@ -1,10 +1,11 @@
 # HR-Analytics-Dashboard-MySQL-PowerBI
 ![3c_HR Analytics Dashboard_Asif](https://github.com/md-asif-ar89/HR-Analytics/assets/145151334/52e5f2e7-ea88-4815-9630-da214922408c)
 
-<br>**Data Used**
-<br>HR Data with over 22000 rows from the year 2000 to 2020.
+<br>**DATA USED**
+<br> HR Data with over 22000 rows from the year 2000 to 2020.
 
-<br>**Summary of Findings**
+<br>**SUMMARY OF FINDINGS**
+<br>
 1.	There is a greater number of male employees compared to females.
 2.	White employees constitute the majority, while Native Hawaiian and American Indian employees are the least represented ethnic groups.
 3.	The youngest employee is 20 years old and the oldest is 57 years old
@@ -17,5 +18,9 @@
 10.	The net employee count has shown a consistent increase over the years.
 11.	The average tenure for employees in each department is approximately 8 years, with Legal and Auditing departments having the longest average tenure, while Services, Sales, and Marketing have the shortest.
 
+<br>**LIMITATIONS**
+<br>
+1.	A total of 967 records were excluded from the analysis due to negative ages, as the analysis specifically considered individuals aged 18 years and above. 
+2.	Additionally, 1599 records were not included in the analysis because their termination dates were in the distant future. Only records with termination dates on or before the current date were considered for the analysis.
 
 
